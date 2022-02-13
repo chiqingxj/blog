@@ -1,0 +1,13 @@
+{
+  "name": "hhhhh",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "license": "MIT"
+}
